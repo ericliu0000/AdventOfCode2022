@@ -1,4 +1,4 @@
-with open("i2.txt") as n:
+with open("input.txt") as n:
     lines = n.readlines()
 
     count = 0
